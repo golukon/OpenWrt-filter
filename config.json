@@ -15,6 +15,10 @@
         "name": "ru-blocked-community",
         "uri": "https://community.antifilter.download/list/community.lst"
       }
+    },
+    {
+      "type": "private",
+      "action": "add"
     }
   ],
   "output": [
