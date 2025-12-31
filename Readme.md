@@ -18,6 +18,7 @@ default: direct
 # write your own rules below
 ip(geoip:ru-blocked)->proxy
 ip(geoip:ru-blocked-community)->proxy
+domain(geosite:refilter)->proxy
 ```
 
 # Cкачать
